@@ -1,0 +1,292 @@
+1
+00:00:00,500 --> 00:00:01,466
+GTA 6 es enorme,
+
+2
+00:00:01,466 --> 00:00:02,774
+y no solo por el mapa:
+
+3
+00:00:02,774 --> 00:00:04,365
+también por lo que ocupa en
+
+4
+00:00:04,365 --> 00:00:05,048
+tu consola.
+
+5
+00:00:05,368 --> 00:00:06,838
+Vamos a ver cuánto espacio
+
+6
+00:00:06,838 --> 00:00:08,527
+necesitas y cómo liberarlo sin
+
+7
+00:00:08,527 --> 00:00:09,344
+volverte loco.
+
+8
+00:00:09,894 --> 00:00:11,988
+Según los datos de la precarga,
+
+9
+00:00:11,988 --> 00:00:14,017
+necesitas hasta 212 GB libres.
+
+10
+00:00:14,337 --> 00:00:15,490
+Y no te quedes justo:
+
+11
+00:00:15,490 --> 00:00:17,273
+los juegos grandes suelen recibir
+
+12
+00:00:17,273 --> 00:00:18,583
+un parche el primer día,
+
+13
+00:00:18,583 --> 00:00:20,313
+y las consolas necesitan espacio
+
+14
+00:00:20,313 --> 00:00:21,518
+extra para instalarlo.
+
+15
+00:00:22,068 --> 00:00:23,615
+En una PS5 original,
+
+16
+00:00:23,615 --> 00:00:25,310
+de unos 667 GB útiles,
+
+17
+00:00:25,310 --> 00:00:27,741
+el juego se come aproximadamente
+
+18
+00:00:27,741 --> 00:00:29,288
+un tercio del disco.
+
+19
+00:00:29,608 --> 00:00:30,998
+En la PS5 Slim,
+
+20
+00:00:30,998 --> 00:00:33,084
+con unos 848 GB útiles,
+
+21
+00:00:33,084 --> 00:00:34,127
+algo menos.
+
+22
+00:00:34,447 --> 00:00:35,760
+En Xbox Series X,
+
+23
+00:00:35,760 --> 00:00:37,512
+con unos 802 GB útiles,
+
+24
+00:00:37,512 --> 00:00:39,701
+más o menos una cuarta parte.
+
+25
+00:00:40,021 --> 00:00:42,182
+Pero ojo si tienes una Xbox
+
+26
+00:00:42,182 --> 00:00:43,726
+Series S de 512 GB:
+
+27
+00:00:43,726 --> 00:00:46,195
+solo tienes unos 364 GB útiles,
+
+28
+00:00:46,195 --> 00:00:47,970
+así que GTA 6 se queda
+
+29
+00:00:47,970 --> 00:00:49,591
+con más de la mitad.
+
+30
+00:00:50,141 --> 00:00:51,801
+Para liberar espacio rápido,
+
+31
+00:00:51,801 --> 00:00:52,374
+haz esto.
+
+32
+00:00:52,694 --> 00:00:54,204
+Entra en la configuración de
+
+33
+00:00:54,204 --> 00:00:56,027
+almacenamiento y ordena los juegos
+
+34
+00:00:56,027 --> 00:00:57,642
+por tamaño. Los primeros de la
+
+35
+00:00:57,642 --> 00:00:59,204
+lista son los que más ocupan.
+
+36
+00:00:59,524 --> 00:01:01,298
+Borra los que ya has terminado
+
+37
+00:01:01,298 --> 00:01:02,958
+o no tocas desde hace meses.
+
+38
+00:01:02,958 --> 00:01:04,332
+Siempre puedes volver a
+
+39
+00:01:04,332 --> 00:01:05,133
+descargarlos.
+
+40
+00:01:05,453 --> 00:01:06,534
+Revisa la galería:
+
+41
+00:01:06,534 --> 00:01:08,070
+los clips de vídeo en alta
+
+42
+00:01:08,070 --> 00:01:09,549
+calidad ocupan muchísimo.
+
+43
+00:01:09,869 --> 00:01:11,643
+Y tranquilo con tus partidas
+
+44
+00:01:11,643 --> 00:01:13,724
+guardadas: en Xbox se sincronizan
+
+45
+00:01:13,724 --> 00:01:14,825
+solas en la nube,
+
+46
+00:01:14,825 --> 00:01:16,477
+y en PS5 se sincronizan si
+
+47
+00:01:16,477 --> 00:01:18,006
+tienes PlayStation Plus.
+
+48
+00:01:18,006 --> 00:01:19,781
+Compruébalo antes de borrar.
+
+49
+00:01:20,331 --> 00:01:21,826
+¿Y si te compras un disco
+
+50
+00:01:21,826 --> 00:01:23,378
+externo? Cuidado con esto,
+
+51
+00:01:23,378 --> 00:01:25,218
+porque mucha gente se equivoca.
+
+52
+00:01:25,538 --> 00:01:27,056
+Un disco USB te sirve para
+
+53
+00:01:27,056 --> 00:01:28,518
+almacenar juegos de nueva
+
+54
+00:01:28,518 --> 00:01:30,430
+generación, pero no para jugarlos
+
+55
+00:01:30,430 --> 00:01:31,049
+desde ahí.
+
+56
+00:01:31,369 --> 00:01:32,941
+Para jugar GTA 6 desde
+
+57
+00:01:32,941 --> 00:01:34,923
+almacenamiento extra en PS5,
+
+58
+00:01:34,923 --> 00:01:37,110
+necesitas un SSD M.2 compatible
+
+59
+00:01:37,110 --> 00:01:39,297
+instalado dentro de la consola.
+
+60
+00:01:39,617 --> 00:01:40,528
+En Xbox Series,
+
+61
+00:01:40,528 --> 00:01:42,065
+la opción es la tarjeta de
+
+62
+00:01:42,065 --> 00:01:43,715
+expansión de almacenamiento.
+
+63
+00:01:44,035 --> 00:01:45,053
+El truco barato:
+
+64
+00:01:45,053 --> 00:01:46,909
+mueve tus otros juegos al USB,
+
+65
+00:01:46,909 --> 00:01:48,706
+y deja el disco interno libre
+
+66
+00:01:48,706 --> 00:01:49,424
+para GTA 6.
+
+67
+00:01:49,974 --> 00:01:51,615
+Si este vídeo te ha servido,
+
+68
+00:01:51,615 --> 00:01:53,313
+dale a me gusta y suscríbete,
+
+69
+00:01:53,313 --> 00:01:55,180
+porque esta semana vamos a subir
+
+70
+00:01:55,180 --> 00:01:56,595
+guías de GTA 6 cada día.
+
+71
+00:01:56,915 --> 00:01:58,683
+Y cuéntame en los comentarios
+
+72
+00:01:58,683 --> 00:02:00,039
+desde qué país juegas.
+
+73
+00:02:00,039 --> 00:02:01,453
+Nos vemos en Vice City.
+
